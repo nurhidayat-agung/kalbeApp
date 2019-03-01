@@ -1,0 +1,6 @@
+1. using third party libray Android SQLiteAssetHelper https://github.com/jgilfelt/android-sqlite-asset-helper 
+2. open Andrid Studio and Import Project
+3. let it sync
+4. run or debug your App.
+5. dont forget to prepare fan or in AC room. beacuse android studio will raise your laptop temperature.
+6. db script at "~\KalbeApps\app\src\main\assets\databases\kalbe_app_db.db"

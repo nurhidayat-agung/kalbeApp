@@ -1,0 +1,33 @@
+package com.nur_hidayat_agung.kalbeapps.Model;
+
+import java.util.Date;
+
+public class Brand {
+    private int intBrandID;
+    private String txtBrandName;
+    private Date dtInserted;
+
+    public int getIntBrandID() {
+        return intBrandID;
+    }
+
+    public void setIntBrandID(int intBrandID) {
+        this.intBrandID = intBrandID;
+    }
+
+    public String getTxtBrandName() {
+        return txtBrandName;
+    }
+
+    public void setTxtBrandName(String txtBrandName) {
+        this.txtBrandName = txtBrandName;
+    }
+
+    public Date getDtInserted() {
+        return dtInserted;
+    }
+
+    public void setDtInserted(Date dtInserted) {
+        this.dtInserted = dtInserted;
+    }
+}
