@@ -7,6 +7,15 @@ public class Brand {
     private String txtBrandName;
     private Date dtInserted;
 
+    public Brand() {
+    }
+
+    public Brand(String txtBrandName) {
+        this.txtBrandName = txtBrandName;
+        this.dtInserted = new Date();
+
+    }
+
     public int getIntBrandID() {
         return intBrandID;
     }

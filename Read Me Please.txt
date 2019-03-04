@@ -4,3 +4,6 @@
 4. run or debug your App.
 5. dont forget to prepare fan or in AC room. beacuse android studio will raise your laptop temperature.
 6. db script at "~\KalbeApps\app\src\main\assets\databases\kalbe_app_db.db"
+7. or you canclone this project via github at https://github.com/nurhidayat-agung/kalbeApp
+8. publish apk in "publish app" folder
+9. clone thi project at https://github.com/nurhidayat-agung/kalbeApp.git

@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Kalbe Apps</string>
+
+
+    <string name="gender_prompt">Choose a gender</string>
+
+    <string-array name="gender_arrays">
+        <item>Perempuan</item>
+        <item>Laki-Laki</item>
+    </string-array>
 </resources>
